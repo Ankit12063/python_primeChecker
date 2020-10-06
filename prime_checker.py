@@ -1,10 +1,12 @@
 # Program to check if a number is prime or not
-
+import numpy as np
+import pandas as pd
 num = 407
 
 # uncomment this to enable input from user
 #num = int(input("Please input an integer :)"))
 
+#number can be anything
 
 # prime numbers are greater than 1
 def is_prime(num):
